@@ -14,4 +14,5 @@ I hope to learn how to use data visualization skills to show information appropr
 I'm interested in how does the "Controlling color" work for people who see presentation materials.
 
 # Portfolio
-cmustudent-portfolio(/dataviz2.md)
+Suda2151/cmustudent-portfolio/dataviz2.md
+
