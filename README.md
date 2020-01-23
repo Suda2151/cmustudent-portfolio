@@ -14,5 +14,5 @@ I hope to learn how to use data visualization skills to show information appropr
 I'm interested in how does the "Controlling color" work for people who see presentation materials.
 
 # Portfolio
-[Link to other page](/dataviz2.md)
+[image of data](/dataviz2.md)
 
