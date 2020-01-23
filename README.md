@@ -14,5 +14,5 @@ I hope to learn how to use data visualization skills to show information appropr
 I'm interested in how does the "Controlling color" work for people who see presentation materials.
 
 # Portfolio
-![test]("https://data.oecd.org/chart/5OQJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true")
+<img src = "https://data.oecd.org/chart/5OQJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"/>
 
