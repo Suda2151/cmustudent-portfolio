@@ -15,6 +15,8 @@ I'm interested in how does the "Controlling color" work for people who see prese
 
 # Portfolio
 
+[Link to OECD graph](/dataviz2.md)
+
 <iframe src="https://data.oecd.org/chart/5OQp" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OQp" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 <img src = "https://data.oecd.org/chart/5OQJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"/>
