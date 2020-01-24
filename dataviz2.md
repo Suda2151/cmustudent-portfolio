@@ -20,13 +20,16 @@ The graph title is "**General government debt-to-GDP ratio from 1996 to 2018**".
 This graph shows how big each country's Debt-GDP is since 1996. It is a descending order. It means that Japan is the highest Debt-GDP ratio among countries.
 
 
+
 * How to compare
+
 The first top 10 countries are red highlighted. They are a high ratio of Debt-GDP continuously since 1996.
 They are grouped as **Red** color. **Green** color highlighted are medium countries from the Debt-GDP perspective. 
 And the rest of them are low Debt-GDP ratio countries. They should not be monitored in detail. So They are **Gray** highlighted.
 In the case of comparing one to another, the line thickness shows how the Debt-to-GDP ratio is.  When the line shows a thick line, that means the country has a high rate of Debt-to-GDP in that year.
 
 * Method
+
 There are so many countries. I divided into three groups based on the Good Charts textbook's instruction. That is easy to check.
 The point is how big each country's rate of Debt-to-GDP and which country has a big ratio.
 And I used descending order to show data more clearly. It is easy to see which country has a high rate and which country has a low rate.
