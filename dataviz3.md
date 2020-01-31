@@ -15,6 +15,6 @@ This has been already assessed on 1/28/2020.</br></br>
 
 ## Stap3 : Wireframe a solution</br></br>
 
-![Alt text](/Wireflame_sketch.jpeg)
+![Alt text](/Wireflame.jpeg)
 
 
