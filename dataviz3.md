@@ -11,4 +11,5 @@ By picking up some of the information from the matrix sheet, I will make data vi
 
 ## Step2 : Critique the data visualization</br></br>
 
+This 
 
