@@ -1,6 +1,6 @@
 # Assignment 3&4
 
-## Step1 : find a data visualization</br>
+<br>## Step1 : find a data visualization</br>
 
 Based on the instruction, I used the following data for my visualization.</br>
 
