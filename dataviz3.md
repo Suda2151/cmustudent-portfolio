@@ -23,6 +23,16 @@ My point is showing the growth of travelers from growth and number perspective.<
 
 ## Step4 : Test the solution</br></br>
 
+I also did memo on the above notebook. The following is review's comment.<br>
+
+###<person1></br>
+Q1: Can you tell me what you think this is?</br>
+--> A1: Not sure what this is. There is no information about these sketch.</br></br>
+
+Q2: Can you describe to me what this is telling you?</br>
+--> A2: I can not imagine. At No2, it seems some information about Domestic and International.</br></br>
+
+
 
 
 
