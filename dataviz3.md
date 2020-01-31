@@ -33,7 +33,7 @@ Q2: Can you describe to me what this is telling you?</br>
 --> A2: I can not imagine. At No2, it seems some information about Domestic and International.</br></br>
 
 Q3: Is there anything you find surprising or confusing?</br>
---> A3: At No.1, the rage is narrow. And, at No.2, it is difficult to compare between Domestic and International. And it is difficult to see million and growth rate in one sheet. And, at No.3, you need to put value.</br>
+--> A3: At No.1, the rage is narrow. And, at No.2, it is difficult to compare between Domestic and International. And it is difficult to see million and growth rates in one sheet. And, at No.3, you need to put value.</br>
         Overall, information is not enough to understand. that needs to be enhanced.</br></br>
 
 Q4: Who do you think is the intended audience for this?</br>
@@ -50,15 +50,21 @@ Q2: Can you describe to me what this is telling you?</br>
 --> A2: It seems that some trend is showing. Both domestic and International are the same growth and have almost same value.</br></br>
 
 Q3: Is there anything you find surprising or confusing?</br>
---> A3: Overall, it is a little bit hard to understand what graph shows. Especially, No2 has several information into one sheet. It is difficult to understand. And I thought Domestic and International have same value. But actually it was not the same. There are many sketches, I did only one.</br></br>
+--> A3: Overall, it is a little bit hard to understand what the graph shows. Especially, No2 has several pieces of information into one sheet. It is difficult to understand. And I thought Domestic and International have the same value. But actually it was not the same. There are many sketches, I did only one.</br></br>
 
 Q4: Who do you think is the intended audience for this?</br>
---> A4: Travelers who wants to go trip. And travel company.</br></br>
+--> A4: Travelers who want to go trip. And travel company.</br></br>
 
 Q5: Is there anything you would change or do differently?</br>
 --> A5: At least, the graph of growth rate and the number of travelers had better be separated.</br></br>
 
-## 
+##  Lessons learned approach</br></br>
+1. Need to describe the graph title clearly
+2. Need to describe some explanation.
+3. Need to male 2 graphs if I need to show growth and popularity.
+4. Need to put values.</br></br>
+
+
        
 
 
