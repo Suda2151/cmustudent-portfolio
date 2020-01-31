@@ -19,7 +19,7 @@ The wireframe sketch is below.</br>
 I made 3 patterns to visualize the information.</br>
 My point is showing the growth of travelers from growth and number perspective.</br>
 
-![Alt text](/Wireflame.jpeg)</br></br>
+![Alt text](/Wireframe.jpeg)</br></br>
 
 ## Step4 : Test the solution</br></br>
 
