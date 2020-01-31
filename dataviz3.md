@@ -25,7 +25,7 @@ My point is showing the growth of travelers from growth and number perspective.<
 
 I also did memo on the above notebook. The following is review's comment.<br>
 
-###<person1></br>
+### <person1></br>
 Q1: Can you tell me what you think this is?</br>
 --> A1: Not sure what this is. There is no information about these sketch.</br></br>
 
