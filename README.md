@@ -28,6 +28,7 @@ I'm interested in how does the "Controlling color" work for people who see prese
 
 [Link to OECD graph](/dataviz2.md)
 
+[Link to Assignment 3&4](/dataviz3.md)
 
 
 
