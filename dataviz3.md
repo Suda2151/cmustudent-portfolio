@@ -25,15 +25,19 @@ My point is showing the growth of travelers from growth and number perspective.<
 
 I also did memo on the above notebook. The following is review's comment.<br>
 
-### <person1></br>
+### person1</br>
 Q1: Can you tell me what you think this is?</br>
 --> A1: Not sure what this is. There is no information about these sketch.</br></br>
 
 Q2: Can you describe to me what this is telling you?</br>
 --> A2: I can not imagine. At No2, it seems some information about Domestic and International.</br></br>
 
-
-
+Q3: Is there anything you find surprising or confusing?</br>
+--> A3: At No.1, the rage is narrow.</br>
+        At No.2, it is difficult to compare between Domestic and International. And it is difficult to see million and growth rate in one sheet.</br>
+        At No.3, you need to put value.</br>
+        Overall, information is not enough to understand. that needs to be enhanced.</br></br>
+       
 
 
 
