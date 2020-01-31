@@ -15,6 +15,15 @@ This has been already assessed on 1/28/2020.</br></br>
 
 ## Stap3 : Wireframe a solution</br></br>
 
-![Alt text](/Wireflame.jpeg)
+The wireframe sketch is below.</br> 
+I made 3 patterns to visualize the information.</br>
+My point is showing the growth of travelers from growth and number perspective.</br>
+
+![Alt text](/Wireflame.jpeg)</br></br>
+
+## Step4 : Test the solution</br></br>
+
+
+
 
 
