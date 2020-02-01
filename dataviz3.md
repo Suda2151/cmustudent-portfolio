@@ -83,9 +83,13 @@ By having feedbacks from colleagues, I modified the following update.<br>
 3). Adopted stacked bar chart to show how big/small the number of domestic/international is.<br> 
 
 
-##Total number of Travelers from Domestic v.s. International in U.S.<br>
+## Total number of Travelers from Domestic v.s. International in U.S.<br>
 The following graph shows how many people in the U.S or overseas(international) travels in the U.S.<br>
 Basically, both are increasing year by year except international in 2016. By visualizing that, people can know whether the travel industry is growing or not.<br><br>
 
+[File source in tableau](https://public.tableau.com/views/HW3_15804502773640/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link)
 
+<div class='tableauPlaceholder' id='viz1580501108089' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HW&#47;HW3_15804502773640&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HW3_15804502773640&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HW&#47;HW3_15804502773640&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>https://public.tableau.com/views/HW3_15804502773640/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link                
+
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1580501108089');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
