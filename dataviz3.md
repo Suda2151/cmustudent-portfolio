@@ -17,6 +17,16 @@ Current sheet is below<br><br>
 
 This has been already assessed on 1/28/2020.<br><br>
 
+The following is what I answered in google form.<br>
+* Usefulness: 3
+* Completeness: 6
+* Perceptibility: 2
+* Truthfulness: 5
+* Intuitiveness: 4
+* Aesthetics: 3
+* Engagement: 6
+
+
 ## Stap3 : Wireframe a solution<br><br>
 
 The wireframe sketch is below.<br> 
