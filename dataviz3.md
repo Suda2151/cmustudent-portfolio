@@ -75,7 +75,12 @@ This information is very useful for travel agencies to make a strategic plan to 
 Based on the critique method, at first, it should have visualization for this information. And I paid attention to the number of travelers who do a trip in the U.S.  For travelers, there are two types of travelers as a whole. One is domestic travelers who live in the U.S. and travel in the U.S. The other is international travelers who live in overseas and travel to the U.S.<br>
 By comparing this 2 information, travel agencies can know the trend if the needs of a trip in the U.S. are increasing of not. And It is easy to know how many people in the U.S/from overseas go trip in the U.S. By knowing both, the travel agencies know how big the potential market for this. <br>
 Meanwhile, not only the number but also the growth rate needs to be known toward making a good trip plan.  By checking the rate, agencies know that which(Domestic/International) is more growing. By checking the number of travelers, it is obvious that domestic travelers are the majority and make a profit. But by seeing the rate, the growth rate of international is higher than the rate of domestic in a certain year, it means that the international has a potential growing power than domestic in a certain year. Agencies can more focus on the trip plans for international people to make more profit. And by seeing the trend, the growth rate of international has stopped since 2016. By visualizing, that can be seen, and agencies can check the cause and countermeasures. <br>
-In addition, the government can know that tax income has been raised by travelers. It might be a benefit for agencies to have a financial support depending on trip plan.<br>
+In addition, the government can know that tax income has been raised by travelers. It might be a benefit for agencies to have a financial support depending on trip plan.<br><br>
+
+By having feedbacks from colleagues, I modified the following update.<br>
+1). Updated the title and axis explanation for audience to understand easily.<br>
+2). I separated a graph. One focuses on number of travelers comparing domestic and international. The other focuses on the growing rate which implies which is a higher rate, and what happened if there are some spikes.<br>
+3). Adopted stacked bar chart to show how big/small the number of domestic/international is.<br> 
 
 
 ##
