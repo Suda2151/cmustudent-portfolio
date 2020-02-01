@@ -83,6 +83,9 @@ By having feedbacks from colleagues, I modified the following update.<br>
 3). Adopted stacked bar chart to show how big/small the number of domestic/international is.<br> 
 
 
-##
+##Total number of Travelers from Domestic v.s. International in U.S.<br>
+The following graph shows how many people in the U.S or overseas(international) travels in the U.S.<br>
+Basically, both are increasing year by year except international in 2016. By visualizing that, people can know whether the travel industry is growing or not.<br><br>
+
 
 
