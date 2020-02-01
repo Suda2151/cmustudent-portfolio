@@ -68,11 +68,16 @@ Q5: Is there anything you would change or do differently?<br>
 ## Step5 : Build your solution<br><br>
 1. Original Source is below link.<br>
 [Data Source Link](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_US-Travel-and-Tourism-Overview.pdf)<br>
-### Reason for selecting this matrix sheet<br>
+* Reason for selecting this matrix sheet<br>
 This information is very useful for travel agencies to make a strategic plan to earn much more profit. But It is difficult to understand what point the matrix sheet shows by first sight. There is no visualization. By visualizing information, it must be easy to know what the rends are from a travel perspective. That's the reason why I pick up this sample.<br><br>
 
 2. Process to make graphs<br>
 Based on the critique method, at first, it should have visualization for this information. And I paid attention to the number of travelers who do a trip in the U.S.  For travelers, there are two types of travelers as a whole. One is domestic travelers who live in the U.S. and travel in the U.S. The other is international travelers who live in overseas and travel to the U.S.<br>
 By comparing this 2 information, travel agencies can know the trend if the needs of a trip in the U.S. are increasing of not. And It is easy to know how many people in the U.S/from overseas go trip in the U.S. By knowing both, the travel agencies know how big the potential market for this. <br>
-Meanwhile, not only the number, but also the growth rate needs to know toward making a good trip plan.  By checking the rate, agencies know that which(Demestic/International) is more growing. By checking the number of travelers, it is obvious that domestic travelers are majority and make a profit. But by seeing the rate, the growth rate of international is higher than the rate of domestic, it means that there is a higher gwowing power than domestic. Agencies can more focus of trip plan for international people to make more profit.   
+Meanwhile, not only the number but also the growth rate needs to be known toward making a good trip plan.  By checking the rate, agencies know that which(Domestic/International) is more growing. By checking the number of travelers, it is obvious that domestic travelers are the majority and make a profit. But by seeing the rate, the growth rate of international is higher than the rate of domestic in a certain year, it means that the international has a potential growing power than domestic in a certain year. Agencies can more focus on the trip plans for international people to make more profit. And by seeing the trend, the growth rate of international has stopped since 2016. By visualizing, that can be seen, and agencies can check the cause and countermeasures. <br>
+In addition, the government can know that tax income has been raised by travelers. It might be a benefit for agencies to have a financial support depending on trip plan.<br>
+
+
+##
+
 
