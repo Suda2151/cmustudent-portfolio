@@ -67,7 +67,7 @@ Q5: Is there anything you would change or do differently?<br>
 
 ## Step5 : Build your solution<br><br>
 1. Original Source is below link.<br>
-[Original Data Source Link]("https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_US-Travel-and-Tourism-Overview.pdf")<br>
+[Data Source Link](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_US-Travel-and-Tourism-Overview.pdf)<br>
 ### Reason for selecting this matrix sheet<br>
 This information is very useful for travel agencies to make a strategic plan to earn much more profit. But It is difficult to understand what point the matrix sheet shows by first sight. There is no visualization. By visualizing information, it must be easy to know what the rends are from a travel perspective. That's the reason why I pick up this sample.
 
