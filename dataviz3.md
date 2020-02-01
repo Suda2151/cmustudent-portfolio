@@ -25,7 +25,7 @@ The following is what I answered in google form.<br>
 * Intuitiveness: 4
 * Aesthetics: 3
 * Engagement: 6
-* Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?<br>
+* Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
 +** test
 
 
