@@ -19,5 +19,18 @@ Toward these analyses, I scraped the following data. Since the data in 2019 is n
 9. American Airline: [American](https://www.delta.com/)
 10. Spirit: [Spirit](https://www.delta.com/)
 
+### Project Story
+The project consists of four streams. 1) Actual data visualization and analysis, 2) Rating by customer analysis using several sources, 3) Both 1) and 2) comparison and analysis and 4) Conclusion with interpretation. 
+Data are stored at several sites. All information needs to be collected and assessed accordingly. This takes a lot of time. Using some airlines to compare airfare is a good example to see what exact differences. And by using rating and ranking information, it can be checked whether there is any relationship between them.
+In terms of comparison and analysis, the following analysis will be executed.
+* Comparison and Assessment<br>
+   - Ranking data(Passenger number) and Customer Satisfuction data<br>
+   - Customer Satisfuction data between rating companies<br>
+   - Criteria for chosing airlines and airline's sample data check<br>
+   - Ranking data(Passenger number and Revenue) and Rating infromation<br> 
+
+At the end of the project, I will be able to conclude if data visualization contributes to operating revenue of each airline with some interpretation based on the data. And By checking the example of travel plans through several airlines, we will be able to see some trends for each airline.
+
+The following is current visualization that I am considering to make toward final presentation.<br>
 
 
