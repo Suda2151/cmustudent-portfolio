@@ -34,10 +34,10 @@ At the end of the project, I will be able to conclude if data visualization cont
 The following is current visualization that I am considering to make toward final presentation.<br>
 
 ### Story sketch
-![Alt pdf](/StoryStreamSketch.pdf)<br><br>
+![Alt text](/StoryStreamSketch.jpeg)<br><br>
 ### Visualization sketch
-![Alt pdf](/DataViz.pdf)<br><br>
+![Alt pdf](/DataViz.jpeg)<br><br>
 ### Analysis sketch
-![Alt text](/AnalysisImage.pdf)<br><br>
+![Alt text](/AnalysisImage.jpeg)<br><br>
 
 
