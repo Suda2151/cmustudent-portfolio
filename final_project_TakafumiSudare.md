@@ -34,7 +34,7 @@ At the end of the project, I will be able to conclude if data visualization cont
 The following is current visualization that I am considering to make toward final presentation.<br>
 
 ### Story sketch
-![Alt text](/StoryStreamSketch.jpeg)<br><br>
+![Alt text](/StoryStreamSketch .jpeg)<br><br>
 ### Visualization sketch
 ![Alt text](/DataViz.jpeg)<br><br>
 ### Analysis sketch
