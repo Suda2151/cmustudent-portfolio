@@ -1,4 +1,6 @@
 ### Interview Contents and materials
+The following link shows draft visualization that I used for the interview.
+
 
 
 ### a. The target audience I hope to reach with my story;
@@ -56,3 +58,12 @@ Me: Thanks. Yes, toward the final presentation, I will brush up the volume. So f
 
 #### The following wirefram is used at interview.
 ![Alt text](/Data/Balsamiq1.png)<br>
+![Alt text](/Data/Balsamiq2.png)<br>
+![Alt text](/Data/Balsamiq3.png)<br>
+![Alt text](/Data/Balsamiq4.png)<br>
+![Alt text](/Data/Balsamiq5.png)<br>
+![Alt text](/Data/Balsamiq6.png)<br>
+![Alt text](/Data/Balsamiq7.png)<br>
+![Alt text](/Data/Balsamiq8.png)<br>
+![Alt text](/Data/Balsamiq9.png)<br>
+
