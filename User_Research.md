@@ -55,4 +55,4 @@ Me: Thanks. Yes, toward the final presentation, I will brush up the volume. So f
 ![Alt text](/Data/Storyboard2.png)<br>
 
 #### The following wirefram is used at interview.
-![Alt text](/Data/Storyboard1.png)<br>
+![Alt text](/Data/Balsamiq1.png)<br>
