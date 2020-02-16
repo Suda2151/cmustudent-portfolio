@@ -1,4 +1,4 @@
-![Alt text](/Storyboard_final_presentation.pdf)<br>
+![Alt text](/Data/Storyboard1.png)<br>
 
 ### a. The target audience I hope to reach with my story;
 I targeted the person who likes to go trip using airlines. And I am targeting 2 types of audiences who like trip via airlines. One is my classmate in Telling Stories with Data class. Second is the person who has no experience for Telling Stories. Even for the audience who does not have any knowledge of Telling Story, I want to show my story to them how the current airline ranking consists of.
