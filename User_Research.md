@@ -1,6 +1,6 @@
 ### Interview Contents and materials
 The following link shows draft visualization that I used for the interview.
-
+[Iink to the draft graphs](/interview_draftGraph.md)
 
 
 ### a. The target audience I hope to reach with my story;
