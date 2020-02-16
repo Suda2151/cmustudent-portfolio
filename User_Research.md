@@ -1,4 +1,5 @@
-![Alt text](/Data/Storyboard1.png)<br>
+
+
 
 ### a. The target audience I hope to reach with my story;
 I targeted the person who likes to go trip using airlines. And I am targeting 2 types of audiences who like trip via airlines. One is my classmate in Telling Stories with Data class. Second is the person who has no experience for Telling Stories. Even for the audience who does not have any knowledge of Telling Story, I want to show my story to them how the current airline ranking consists of.
@@ -47,5 +48,11 @@ Me: Thanks. Yes, toward the final presentation, I will brush up the volume. So f
 2.	Updated 1st slide to add quick background 
 3.	Graph to be updated.
 4.	Slide volume. (Some unnecessary items are removed)
-5.	Additional Slide and storyboard are needed. Based on the discussion, it needs other factors about customer criteria. Those info need to be referred from top ranked airline such as Southwest or Alaska Airlines. Their specif factor could be the key point for their popularity. 
+5.	Additional Slide and storyboard are needed. Based on the discussion, it needs other factors about customer criteria. Those info need to be referred from top ranked airline such as Southwest or Alaska Airlines. Their specif factor could be the key point for their popularity. <br>
 
+#### The following is what I showed at interview.
+![Alt text](/Data/Storyboard1.png)<br>
+![Alt text](/Data/Storyboard2.png)<br>
+
+#### The following wirefram is used at interview.
+![Alt text](/Data/Storyboard1.png)<br>
