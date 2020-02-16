@@ -20,7 +20,7 @@ Just in case, I also attached the file below.<br>
 
 
 ## Wireframe(Presentation workflow):
-Based on user research, there are some items that need to be revised.
+Based on user research, there are some items that need to be revised.<br>
 The following items were updated on the wireframe as Presentation.<br>
 1. high-level summarization and background of my analysis are put on the first slide.
 2. Emphasizing items are bold or made as bigger font accordingly.
@@ -38,6 +38,7 @@ The following is updated presentation workflow(Wireframe)<br>
 ![Alt text](/Data/Balsamiq8.png)<br>
 ![Alt text](/Data/Balsamiq9.png)<br><br>
 
-## Storyboard():
-
+## Storyboard:
+In terms of storyboard, I updated a little bit based on user reearch.<br>
+According to 
 
