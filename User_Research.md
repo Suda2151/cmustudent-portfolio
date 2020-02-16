@@ -9,7 +9,8 @@ In terms of the Interview, I asked three members. At first, I explained the stor
 1.	Whether the storytelling on storyboard does make sense. If not, what portion needs to be improved.
 2.	Whether the wireframe(slide) shows understandable information. If not, what portion needs to be improved.
 3.	Whether the current graph image is easy to understand. If not, what portion is bad. Please give me advice.
-4.	Whether contents are requesting the audience to do something? If not, which portion is not clear for you from the audience perspective.<br>
+4.	Whether contents are requesting the audience to do something? If not, which portion is not clear for you from the audience perspective.<br><br>
+
 Me: Hi! Here are my high-level wireframe and storyboard though I am still updating it. Would you mind giving me ideas behind what I made?
 Person 1 (No experience for visualization): Hi! Thank you for choosing me! The plan what you are going to show is very nice! The topic that you selected is a very interesting point for me. I understood that you are going to show whether there is any correlation between company revenue/passenger number ranking and customer popularity ranking, right?
 Me: Yes, I would like to show whether popularity links to passenger numbers directly to the audience. The background is I’m always using the same airlines without any thought, but I was wondering how other people choose airlines among many companies. And through the analysis, my criteria can be changed. And that is useful for not only me but also the audience to find more better airlines! For airline side also has a benefit if they might have a chance to have new customers who continue to select in the future. This type of information I want to share with the audience through my visualizations.
