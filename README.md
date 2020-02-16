@@ -19,7 +19,9 @@ I'm interested in how does the "Controlling color" work for people who see prese
 
 [Link to Assignment 3&4](/dataviz3.md)
 
-[Iink to the final Project](/final_project_TakafumiSudare.md)
+[Iink to the final Project　Part1](/final_project_TakafumiSudare.md)
+
+[Iink to the final Project　Part2](/final_project_part2Outline.md)
 
 
 
