@@ -54,7 +54,7 @@ Me: Thanks. Yes, toward the final presentation, I will brush up the volume. So f
 5.	Additional Slide and storyboard are needed. Based on the discussion, it needs other factors about customer criteria. Those info need to be referred from top ranked airline such as Southwest or Alaska Airlines. Their specif factor could be the key point for their popularity. <br>
 
 #### The following is what I showed at interview.
-![Alt text](/Data/Storyboard1.png)<br>
+![Alt text](/Data/Storyboard_original1.png)<br>
 ![Alt text](/Data/Storyboard_original2.png)<br>
 
 #### The following wirefram is used at interview.
