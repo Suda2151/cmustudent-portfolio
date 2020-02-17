@@ -8,7 +8,7 @@ The link includes a wireframe and a storyboard which I used at the interview as 
 
 At the interview, I used hand draw graphs in below link.
 Just in case, I also attached the file below.<br>
-[Iink to the User Research](/interview_draftGraph.md)<br>
+[Iink to sketches](/interview_draftGraph.md)<br>
 
 ![Alt text](/Data/Official_Rank.png)<br>
 ![Alt text](/Data/CS_ranking.png)<br>
