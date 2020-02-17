@@ -56,6 +56,10 @@ The rest of them will be also crafted by some tools that I learned at the class.
 </div>https://public.tableau.com/views/Final1_15818967797160/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1581896909523');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+<br><br>
+Data related things inclluding data source will be centralized at the follpowing link.
+
+[Iink to the Source Data/Graph](/dataSourceLink.md)<br>
 
 
 
