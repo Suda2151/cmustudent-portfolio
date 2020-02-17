@@ -47,7 +47,7 @@ The following is the updated storyboard.<br>
 ![Alt text](/Data/Storyboard2.png)<br><br>
 
 ## Visualization:
-Data visualization has been already clarified. I have desinged which slide needs to have what type of visualization. Through the interview, there are some points need to be improved. So toward final presentatoin, I will be finalizing them.<br>
+Data visualization has been already clarified. I have desinged which slide needs to have what type of visualization. Through the interview, there are some points need to be improved. So toward final presentatoin, I will be finalizing draft version which is hand drawn right now.<br>
 In terms of data rendering, my data sources are not sophisticated. It can not be used as it is. So I retrieved each source information, and make a graph based on that information. And sometimes for example at the ranking comparison, several sources need to be gathered and concatenated. That's why source information can not be used as rendering.<br>
 Meanwhile, based on the interview, I updated the ranking graph using Tableau tool. Because ranking graph had several improvement points, so I focued on updating it at first. The following updated visualized information.
 The rest of them will be also crafted by some tools that I learned at the class.<br>
