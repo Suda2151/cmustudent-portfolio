@@ -27,4 +27,4 @@ I'm interested in how does the "Controlling color" work for people who see prese
 ## Final Project
 The final project can be confirmed at the floowing link.<br>
 
-[Link to final project](/dataviz2.md)
+[Link to final project](/final_project.md)
