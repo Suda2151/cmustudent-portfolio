@@ -34,7 +34,7 @@ At Part2, the following works were addressed.<br>
 In part2, "Call to action" needs to be clear. Take away was originally set as "Call to action". But more concrete information needs to be put. And rather than just visualization, If airline ranking is focused, choosing criteria should be asked at user research. (It is not sufficient) That needs to be taken care of.<br>
 
 ## Project 3rd Stage<br>
-Toward finalizing my final project, The following is a summary that I needed to adjust from the design and observation point of view.
+Toward finalizing my final project, The following is a **summary** that I needed to adjust from the design and observation point of view.
 
 1. Graph(Customer Ranking Graph)<br>
    Originally, I was planning to use the graph which was made at the tableau. But at several reviews in the class, I thought it might be a little bit difficult to understand by first sight. So I changed the approach to make a ranking graph by myself. I used several companies logos for the audience to understand what I want to show easily. But logos needed to be check if they can be utilized. I had to check one by one if it can be used. Some of them were not allowed to be used. So I changed those from logo to just wording.<br>
@@ -50,7 +50,8 @@ All links and citations were added and checked if they are allowed to be used.
 In terms of citations, I added some comments which portions need to be checked.
 I ensured I have permission to use imagery and other assets. I was referring to the guide that the professor mentioned.<br>
 
-Audience:
+**Audience:**<br>
+The target audience is classmate and persons who are planning to travel using airlines. Based on that, I carefully put the sample merits from Southwest and Alaska Airlines. In that paragraph, it is very easy for people who are planning to trip by using a certain airline to compare what is the differences between what I am showing as unique services and what they are planning to use as usual. This can lead them to re-consider what airline they are going to use for their trip. And at the final paragraph, I emphasized to re-consider and check current airline and try to use another airline which has many unique services which attract you. This is a big "call action" to them.
 
 
 
