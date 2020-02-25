@@ -31,4 +31,11 @@ At Part2, the following works were addressed.<br>
 3. Findings after user research  (Plear refer to "2nd Stage of final Project"link)
 4. Update Wireframe and storyboards based on user research (Plear refer to "2nd Stage of final Project"link)
 
-In part2, "Call to action" needs to be clear. Take away was originally set as "Call to action". But more concrete information needs to be put. And rather than just visualization, If airline ranking is focused, choosing criteria should be asked at user research. (It is not sufficient) That needs to be taken care of.
+In part2, "Call to action" needs to be clear. Take away was originally set as "Call to action". But more concrete information needs to be put. And rather than just visualization, If airline ranking is focused, choosing criteria should be asked at user research. (It is not sufficient) That needs to be taken care of.<br>
+
+## Project 3rd Stage<br>
+Toward finalizing my final project, following items needed to be adjusted.
+
+1. Graph(Costomer Ranking Graph)
+   Originally,
+
