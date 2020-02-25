@@ -57,7 +57,7 @@ Me: Thanks. Yes, toward the final presentation, I will brush up the volume. So f
 ![Alt text](/Data/Storyboard_original1.png)<br>
 ![Alt text](/Data/Storyboard_original2.png)<br>
 
-#### The following wirefram is used at interview.
+#### The following wireframe is used at interview.
 ![Alt text](/Data/OBalsamiq1.png)<br>
 ![Alt text](/Data/OBalsamiq2.png)<br>
 ![Alt text](/Data/OBalsamiq3.png)<br>
