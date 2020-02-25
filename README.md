@@ -24,4 +24,7 @@ I'm interested in how does the "Controlling color" work for people who see prese
 [Iink to the final Project　Part2](/final_project_part2Outline.md)
 
 
+## Final Project
+The final project can be confirmed at the floowing link.<br>
 
+[Link to final project](/dataviz2.md)
