@@ -36,6 +36,6 @@ In part2, "Call to action" needs to be clear. Take away was originally set as "C
 ## Project 3rd Stage<br>
 Toward finalizing my final project, following items needed to be adjusted.
 
-1. Graph(Costomer Ranking Graph)
+1. Graph(Costomer Ranking Graph)<br>
    Originally,
 
