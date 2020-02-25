@@ -34,8 +34,25 @@ At Part2, the following works were addressed.<br>
 In part2, "Call to action" needs to be clear. Take away was originally set as "Call to action". But more concrete information needs to be put. And rather than just visualization, If airline ranking is focused, choosing criteria should be asked at user research. (It is not sufficient) That needs to be taken care of.<br>
 
 ## Project 3rd Stage<br>
-Toward finalizing my final project, following items needed to be adjusted.
+Toward finalizing my final project, The following is a summary that I needed to adjust from the design and observation point of view.
 
-1. Graph(Costomer Ranking Graph)<br>
-   Originally,
+1. Graph(Customer Ranking Graph)<br>
+   Originally, I was planning to use the graph which was made at the tableau. But at several reviews in the class, I thought it might be a little bit difficult to understand by first sight. So I changed the approach to make a ranking graph by myself. I used several companies logos for the audience to understand what I want to show easily. But logos needed to be check if they can be utilized. I had to check one by one if it can be used. Some of them were not allowed to be used. So I changed those from logo to just wording.<br>
+2. Airfare comparison graph<br>
+    I tried several times to show a nicer comparison sheet via tableau. But it could not be made well. So I designed the graph images and visualized it by myself. It took much time to design.<br>
+3. From the Observation perspective,  I used Scrollmation to show the customer ranking graph. Originally, I was planning to use Text Over Media. But it was difficult to add an explanation on the same sheet. It was not easy to see the explanation due to colorful back image which is ranking graph. Meanwhile, if explanation is separated from the graph, it was difficult to understand the explanation without graph image. So I changed that. Due to that, the graph became a little bit a small size than what I expected.<br>
+4. There were so many citations for my project. To get vast and several pieces of information to make concrete explanation, there are so many citations I had to put on SHORTHAND. From a design point of view, it was difficult how could I put links and citations nicely.<br>
+
+The following is SHORTHAND that I published. (The link is same as the link on top)
+SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity/index.html)<br>
+
+All links and citations were added and checked if they are allowed to be used.
+In terms of citations, I added some comments which portions need to be checked.
+I ensured I have permission to use imagery and other assets. I was referring to the guide that the professor mentioned.<br>
+
+Audience:
+
+
+
+
 
