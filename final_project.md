@@ -54,9 +54,3 @@ I ensured I have permission to use imagery and other assets. I was referring to 
 **Audience:**<br>
 The target audience is classmate and persons who are planning to travel using airlines. Based on that, I carefully put the sample merits from Southwest and Alaska Airlines. In that paragraph, it is very easy for people who are planning to trip by using a certain airline to compare what is the differences between what I am showing as unique services and what they are planning to use as usual. This can lead them to re-consider what airline they are going to use for their trip. And at the final paragraph, I emphasized to re-consider and check current airline and try to use another airline which has many unique services which attract you. This is a big "call action" to them.
 
-
-
-
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity/"><h1> Airline Assessment and Popularity</h1><p> How do customers choose airlines among a bunch of airlines? 
-Any correlation between airline ranking and popularity? </p></div>
