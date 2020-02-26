@@ -2,7 +2,7 @@
 
 ## Final published version
 
-SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity/index.html)<br>
+SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-assessment-and-popularity/index.html)<br>
 
 ## Project 1st Stage<br>
 At the beginning to make a project the following items are structured.
@@ -44,7 +44,8 @@ Toward finalizing my final project, The following is a **summary** that I needed
 4. There were so many citations for my project. To get vast and several pieces of information to make concrete explanation, there are so many citations I had to put on SHORTHAND. From a design point of view, it was difficult how could I put links and citations nicely.<br>
 
 The following is SHORTHAND that I published. (The link is same as the link on top)
-SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity/index.html)<br>
+SHORTHAND: [presentation_version](https://carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity-/index.html)<br>
+SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-assessment-and-popularity/index.html)<br>
 
 All links and citations were added and checked if they are allowed to be used.
 In terms of citations, I added some comments which portions need to be checked.
