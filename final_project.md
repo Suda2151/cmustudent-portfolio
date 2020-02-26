@@ -43,7 +43,7 @@ Toward finalizing my final project, The following is a **summary** that I needed
 3. From the Observation perspective,  I used Scrollmation to show the customer ranking graph. Originally, I was planning to use Text Over Media. But it was difficult to add an explanation on the same sheet. It was not easy to see the explanation due to colorful back image which is ranking graph. Meanwhile, if explanation is separated from the graph, it was difficult to understand the explanation without graph image. So I changed that. Due to that, the graph became a little bit a small size than what I expected.<br>
 4. There were so many citations for my project. To get vast and several pieces of information to make concrete explanation, there are so many citations I had to put on SHORTHAND. From a design point of view, it was difficult how could I put links and citations nicely.<br>
 
-The following is SHORTHAND that I published. (The link is same as the link on top)
+The following is SHORTHAND that I published. (The link is same as the link on top)<br>
 SHORTHAND: [presentation_version](https://carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity-/index.html)<br>
 SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-assessment-and-popularity/index.html)<br>
 
