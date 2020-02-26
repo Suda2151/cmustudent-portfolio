@@ -56,4 +56,6 @@ The target audience is classmate and persons who are planning to travel using ai
 
 
 
-
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/-airline-assessment-and-popularity/"><h1> Airline Assessment and Popularity</h1><p> How do customers choose airlines among a bunch of airlines? 
+Any correlation between airline ranking and popularity? </p></div>
