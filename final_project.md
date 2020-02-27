@@ -18,7 +18,7 @@ At Part1, the following information was planned and sketched.<br>
 6. A few paragraphs summarizing your approach to the project (Please refer to "Project Story")<br>
 
 ## Project 2nd Stage<br>
-At the 2nd Stage, I was focusing on making a high-level sketch that shows the overall project. And I also made storyboards which tells my project in detail. That storyboards must be accommodated with the high-level sketch. Both works should be in sync. And User research also needs to be addresed. <br>
+At the 2nd Stage, I was focusing on making a high-level sketch that shows the overall project. And I also made storyboards that tells my project in detail. That storyboards must be accommodated with the high-level sketch. Both works should be in sync. And User research also needs to be addressed.<br>
 The following is the link that I was working at Part2.
 
 Part2: [2nd Stage of final Project](/final_project_part2Outline.md)<br>
