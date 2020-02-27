@@ -1,18 +1,18 @@
 ## Here is data source that I will use at final presentation.
 
-### slide2
+### passenger Num index on the SHORTHAND
 [Airline Ranking](https://www.bts.gov/airline-rankings-2018)<br>
 
-### slide3
+### CS ranking index on the SHORTHAND
 [Business Insider Ranking](https://www.businessinsider.com/best-worst-airlines-america-jd-power-2019-5)<br>
 [The Point Guys Ranking](https://thepointsguy.com/guide/best-and-worst-airlines-2018/)<br>
 [Thrillist Ranking](https://www.thrillist.com/news/nation/best-airlines-customer-satisfaction-2018)<br>
 [Wall Street Journal Ranking](https://www.wsj.com/articles/the-best-and-worst-u-s-airlines-of-2018-11547648032)<br>
 
-### slide4
+### Criteria index on SHORTHAND
 [Customer Selection Criteria Info Link](https://www.forbes.com/sites/danielreed/2018/03/07/best-to-worst-new-ranking-of-us-airlines-balances-price-vs-service-performance/#1d21174e55e8)<br>
 
-### slide5
+### Airfare comparison
 [Alaska Airlines](https://www.alaskaair.com/)<br>
 [Southwest Airlines](https://www.southwest.com/)<br>
 [JetBlue](https://www.jetblue.com/)<br>
@@ -20,12 +20,19 @@
 [American Airlines](https://www.aa.com/homePage.do)<br>
 [Spirit Airlines](https://www.spirit.com/)<br>
 
-### slide6
-[Customer Selection Criteria Info Link](https://www.forbes.com/sites/danielreed/2018/03/07/best-to-worst-new-ranking-of-us-airlines-balances-price-vs-service-performance/#1d21174e55e8)<br>
+### Southwest merit
+[Good portions of Southwest Airlines1](https://pointmetotheplane.boardingarea.com/why-fly-southwest-airlines/)<br>
+[Good portions of Southwest Airlines2](https://www.skyscanner.com/tips-and-inspiration/southwest-pros-cons)<br>
+[Good portions of Southwest Airlines3](https://thepointsguy.com/news/battle-airlines-why-southwest-airlines-is-best/)<br>
+[Good portions of Southwest Airlines4](https://www.airfarewatchdog.com/blog/22975194/11-reasons-why-southwest-is-the-best-airline-youre-probably-not-flying/)<br>
 
-### slide7
-[Good portions of Southwest Airlines](https://www.airfarewatchdog.com/blog/22975194/11-reasons-why-southwest-is-the-best-airline-youre-probably-not-flying/)<br>
-[Good portions of Alaska Airlines](https://www.outsideonline.com/2320231/alaska-airlines-best-carrier)<br>
+### Alaska Airlines merit
+[Good portions of Alaska Airlines1](https://blog.alaskaair.com/alaska-airlines/company-news/best-airline-in-america-the-points-guy/)<br>
+[Good portions of Alaska Airlines2](https://www.outsideonline.com/2320231/alaska-airlines-best-carrier)<br>
+[Good portions of Alaska Airlines3](https://www.johnnyjet.com/alaska-airlines-credit-card-review/)<br>
+[Good portions of Alaska Airlines4](https://www.bloomberg.com/news/articles/2017-05-24/how-alaska-airlines-became-the-best-airline-in-the-u-s)<br>
+
+### Service sample ranking
 [Service sample](https://www.cntraveler.com/stories/2015-10-27/the-airlines-with-the-most-legroom-a-tall-travelers-guide)<br><br>
 
 And, following is what I am going to finalize as visualization.<br>
