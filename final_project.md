@@ -5,7 +5,7 @@
 SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-assessment-and-popularity/index.html)<br>
 
 ## Project 1st Stage<br>
-At the beginning to make a project the following items are structured.
+In the beginning, to make a project the following items are structured.
 
 Part1: [1st Stage of final Project](/final_project_TakafumiSudare.md)<br>
 
