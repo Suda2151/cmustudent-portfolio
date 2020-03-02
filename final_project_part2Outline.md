@@ -1,14 +1,14 @@
-# Projcet Wireframes, Storyboard and User research
+# Project Wireframes, Storyboard and User research
 
 ## User Research:
-Please refer to the following link.<br>
-The link includes a wireframe and a storyboard which I used at the interview as draft version.<br> 
+Please refer to the following link.
+The link includes a wireframe and a storyboard that I used at the interview as a draft version.<br> 
 
-[Iink to the User Research](/User_Research.md)<br>
+[Link to the User Research](/User_Research.md)<br>
 
-At the interview, I used hand draw graphs in below link.
+At the interview, I used hand-drawn graphs in the below link.
 Just in case, I also attached the file below.<br>
-[Iink to sketches](/interview_draftGraph.md)<br>
+[Link to sketches](/interview_draftGraph.md)<br>
 
 ![Alt text](/Data/Official_Rank.png)<br>
 ![Alt text](/Data/CS_ranking.png)<br>
@@ -47,9 +47,9 @@ The following is the updated storyboard.<br>
 ![Alt text](/Data/Storyboard2.png)<br><br>
 
 ## Visualization:
-Data visualization has been already clarified. I have desinged which slide needs to have what type of visualization. Through the interview, there are some points need to be improved. So toward final presentatoin, I will be finalizing draft version which is hand drawn right now.<br>
+Data visualization has been already clarified. I have designed which slide needs to have what type of visualization. Through the interview, there are some points need to be improved. So toward final presentation, I will be finalizing draft version which is hand-drawn right now.<br>
 In terms of data rendering, my data sources are not sophisticated. It can not be used as it is. So I retrieved each source information, and make a graph based on that information. And sometimes for example at the ranking comparison, several sources need to be gathered and concatenated. That's why source information can not be used as rendering.<br>
-Meanwhile, based on the interview, I updated the ranking graph using Tableau tool. Because ranking graph had several improvement points, so I focued on updating it at first. The following updated visualized information.
+Meanwhile, based on the interview, I updated the ranking graph using Tableau tool. Because the ranking graph had several improvement points, so I focused on updating it at first. The following updated visualized information.
 The rest of them will be also crafted by some tools that I learned at the class.<br>
 
 <div class='tableauPlaceholder' id='viz1581896909523' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final1_15818967797160&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Final1_15818967797160&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final1_15818967797160&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>
@@ -64,7 +64,7 @@ The following is passenger Number Ranking in 2018.<br>
 
 
 <br><br>
-Data related things inclluding data source will be centralized at the follpowing link.
+Data related things including data source will be centralized at the following link.
 
 [Iink to the Source Data/Graph](/dataSourceLink.md)<br>
 
