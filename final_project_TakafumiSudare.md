@@ -32,7 +32,7 @@ In terms of comparison and analysis, the following analysis will be executed.
 ### Project Method and Medium
 At the end of the project, I will be able to conclude if data visualization contributes to operating revenue of each airline with some interpretation based on the data. And By checking the example of travel plans through several airlines, we will be able to see some trends for each airline. That would be helpful to consider which airlines are you going to choose. In terms of visualization toward the final presentation, so far I am planning to use a box plot to compare the airfare for each airline. However, depending on the analysis, I will also use scattergrams to show the relations. Visualizations need to be simple and easy for the audience to understand even without much description. I will take care of that toward finalizing it.
 
-The following is current sketches/visualizations that I am considering to make toward final presentation.<br>
+The following are current sketches/visualizations that I am considering to make toward the final presentation.<br>
 
 ### Story sketch
 ![Alt text](/StoryStream1.jpeg)<br>
