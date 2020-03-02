@@ -16,8 +16,8 @@ Toward these analyses, I scraped the following data. Since the data in 2019 is n
 6. Southwest Airlines: [Southwest](https://www.southwest.com/)
 7. JetBlue: [jetBlue](https://www.jetblue.com/)
 8. Delta: [Delta](https://www.delta.com/)
-9. American Airline: [American](https://www.delta.com/)
-10. Spirit: [Spirit](https://www.delta.com/)
+9. American Airline: [American](https://www.aa.com/homePage.do)
+10. Spirit: [Spirit](https://www.spirit.com/)
 
 ### Project Story
 The project consists of four streams. 1) Actual data visualization and analysis, 2) Rating by customer analysis using several sources, 3) Both 1) and 2) comparison and analysis and 4) Conclusion with interpretation. 
