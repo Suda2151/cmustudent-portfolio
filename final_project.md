@@ -22,8 +22,8 @@ At the 2nd Stage, I was focusing on making a high-level sketch that shows the ov
 The following is the link that I was working at Part2.
 
 Part2: [2nd Stage of final Project](/final_project_part2Outline.md)<br>
-Part2: [Iink to the User Research](/User_Research.md)<br>
-Part2: [Iink to the Source Data for making Graph](/dataSourceLink.md)<br>
+Part2: [Link to the User Research](/User_Research.md)<br>
+Part2: [Link to the Source Data for making Graph](/dataSourceLink.md)<br>
 
 At Part2, the following works were addressed.<br>
 1. Sketches and storyboards(1st Steps) (Please refer to "User Research" on "Link to the User Research")
