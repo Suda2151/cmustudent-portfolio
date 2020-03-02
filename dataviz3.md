@@ -17,7 +17,7 @@ Current sheet is below<br><br>
 
 This has been already assessed on 1/28/2020.<br><br>
 
-The following is what I answered in google form.<br>
+The following is what I answered in the google form.<br>
 * Usefulness: 3
 * Completeness: 6
 * Perceptibility: 2
@@ -32,7 +32,7 @@ And by clarifying what portion needs to be emphasized, the target audience also 
 And I would make new visualization according to the above points.<br>
 * Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not? <br>
 This data is for travel agencies. Travel agencies are the primary audience. The current visualization is not enough to show them. Because by seeing these numbers, it is not easy for them to understand the trend. By knowing the number of a person who goes trips, payroll, and trend, a trip plan can be planned strategically.<br>
-* Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)<br>
+* Final thoughts: how successful this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)<br>
 My recommendation is whether the visualization can emphasize the point appropriately. In some cases, it does not make sense to understand what the graph wants to show. By highlighted, bold or colored, point which needs to be told should be clarified. Those had better be the point of assessment as "Effectiveness of visualization".
 And in case of assessing a graph, the title and some explanations should be clear enough to understand. Those contents also needs to be assessed.<br><br>
 
@@ -47,7 +47,7 @@ My point is showing the growth of travelers from growth and number perspective.<
 
 ## Step4 : Test the solution<br><br>
 
-I also did memo on the above notebook. The following is review's comment.<br>
+I also did a memo on the above notebook. The following is review's comment.<br>
 
 ### person1<br>
 Q1: Can you tell me what you think this is?<br>
@@ -61,7 +61,7 @@ Q3: Is there anything you find surprising or confusing?<br>
         Overall, information is not enough to understand. that needs to be enhanced.<br><br>
 
 Q4: Who do you think is the intended audience for this?<br>
---> A4: Unfortunatelly, no idea.<br><br>
+--> A4: Unfortunately, no idea.<br><br>
 
 Q5: Is there anything you would change or do differently?<br>
 --> A5: At first, will update tile and explanation. International and Domestic had better be separated.<br><br>
@@ -85,7 +85,7 @@ Q5: Is there anything you would change or do differently?<br>
 ##  Lessons learned approach<br><br>
 1. Need to describe the graph title clearly
 2. Need to describe some explanation.
-3. Need to male 2 graphs if I need to show growth and popularity.
+3. Need for male 2 graphs if I need to show growth and popularity.
 4. Need to put values.<br><br>
 
 
@@ -96,7 +96,7 @@ Q5: Is there anything you would change or do differently?<br>
 This information is very useful for travel agencies to make a strategic plan to earn much more profit. But It is difficult to understand what point the matrix sheet shows by first sight. There is no visualization. By visualizing information, it must be easy to know what the rends are from a travel perspective. That's the reason why I pick up this sample.<br><br>
 
 2. Process to make graphs<br>
-Based on the critique method, at first, it should have visualization for this information. And I paid attention to the number of travelers who do a trip in the U.S.  For travelers, there are two types of travelers as a whole. One is domestic travelers who live in the U.S. and travel in the U.S. The other is international travelers who live in overseas and travel to the U.S.<br>
+Based on the critique method, at first, it should have a visualization for this information. And I paid attention to the number of travelers who do a trip in the U.S.  For travelers, there are two types of travelers as a whole. One is domestic travelers who live in the U.S. and travel in the U.S. The other is international travelers who live in overseas and travel to the U.S.<br>
 By comparing this 2 information, travel agencies can know the trend if the needs of a trip in the U.S. are increasing of not. And It is easy to know how many people in the U.S/from overseas go trip in the U.S. By knowing both, the travel agencies know how big the potential market for this. <br>
 Meanwhile, not only the number but also the growth rate needs to be known toward making a good trip plan.  By checking the rate, agencies know that which(Domestic/International) is more growing. By checking the number of travelers, it is obvious that domestic travelers are the majority and make a profit. But by seeing the rate, the growth rate of international is higher than the rate of domestic in a certain year, it means that the international has a potential growing power than domestic in a certain year. Agencies can more focus on the trip plans for international people to make more profit. And by seeing the trend, the growth rate of international has stopped since 2016. By visualizing, that can be seen, and agencies can check the cause and countermeasures. <br>
 In addition, the government can know that tax income has been raised by travelers. It might be a benefit for agencies to have a financial support depending on trip plan.<br><br>
@@ -118,8 +118,8 @@ Basically, both are increasing year by year except international in 2016. By vis
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1580501108089');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script><br><br>
 
 ## Percentage of expenditure growth from previous year<br>
-The following graph shows how high each domestic and international travel business growth is. Orange colored bars shows domestic(Thick:Expenditure, Thin:Tax revenue), and Blue colored shows international(Thick:Expenditure, Thin:tax revenue). The "Expenditure" means a profit from travel industry point of view. <br>
-Basically, both are growing every year. By 2015, the growth of international is higher than domestic. Since 2016, growth of international is flat This seems to be because of regime change according to several news papers. <br><br>
+The following graph shows how high each domestic and international travel business growth is. Orange colored bars show domestic(Thick: Expenditure, Thin: Tax revenue), and Blue colored shows international(Thick: Expenditure, Thin: tax revenue). The "Expenditure" means a profit from the travel industry's point of view. <br>
+Basically, both are growing every year. By 2015, the growth of international is higher than domestic. Since 2016, the growth of international is flat This seems to be because of regime change according to several newspapers. <br><br>
 
 [File source in tableau](https://public.tableau.com/views/HW3_2_15804523066460/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link)
 
