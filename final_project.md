@@ -48,7 +48,7 @@ SHORTHAND: [presentation_version](https://carnegiemellon.shorthandstories.com/-a
 SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-assessment-and-popularity/index.html)<br>
 
 All links and citations were added and checked if they are allowed to be used.
-In terms of citations, I added some comments which portions need to be checked.
+In terms of citations, I added some comments about which portions need to be checked.
 I ensured I have permission to use imagery and other assets. I was referring to the guide that the professor mentioned.<br>
 
 **Audience:**<br>
